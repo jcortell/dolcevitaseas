@@ -1,7 +1,8 @@
 repo_name: jcortell/dolcevitaseas
 report_id: b0bc443eb777b4bb5b3b9cdad19b4ed8
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T15:20:20+00:00'
+timestamp: '2024-01-05T08:27:26+00:00'
 requested_by: jcortell
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jcortell/dolcevitaseas
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jcortell/dolcevitaseas/blob/master/assets/34e19bcfc0bf6fa5ada252dff282db62.js
   detection_source: assets/34e19bcfc0bf6fa5ada252dff282db62.js
   last_updated_by: Jorge Cortell
   last_updated_on: 2020-10-14 17:38:24.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jcortell/dolcevitaseas
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -43,6 +47,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jcortell/dolcevitaseas/blob/master/about.html
   detection_source: about.html
   last_updated_by: Jorge Cortell
   last_updated_on: 2020-08-31 19:52:36.000000000 Z
